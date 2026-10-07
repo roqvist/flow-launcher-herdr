@@ -7,7 +7,7 @@
   "Author": "roqvist",
   "Version": "1.2.5",
   "Language": "csharp",
-  "Website": "https://codeberg.org/roqvist/flow-launcher-herdr",
+  "Website": "https://github.com/roqvist/flow-launcher-herdr",
   "IcoPath": "Icons\\herdr-white.png",
   "ExecuteFileName": "Flow.Launcher.Plugin.Herdr.dll"
 }
